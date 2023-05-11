@@ -1,0 +1,25 @@
+body {
+    padding :3rem;
+    font-family: 'Montserrat', sans-serif;
+    
+    margin :0;
+        
+}
+
+.bannerClass {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.text-entête {
+      h1 {
+       padding: 10px 0 10px 0;
+       font-size: 20px;
+     } 
+
+     p {
+        font-style: italic;
+     }
+
+}
